@@ -2,6 +2,6 @@
 
 A beta of a church-facing tool built on the TEC Trajectory Study. A church enters its attendance and a few facts about itself, and the tool shows where the church stands and suggests the next best thing to try.
 
-`index.html` is the whole tool, one self-contained file. It is generated from the study's own build rather than edited here. Your answers stay in your browser; the page doesn't send them to the study or to anyone else.
+`index.html` is the whole tool, one self-contained file. It is generated from the study's own build rather than edited here. Your answers stay on your device; the page doesn't send them to the study or to anyone else. A church can save its answers as a small file and pick up from it later.
 
-Feedback: theodramatist@gmail.com
+Feedback: the short form at the foot of the page.
